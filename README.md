@@ -1,6 +1,6 @@
 ## Hi, I'm Tilewlesov Asilbek 👋
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd6eml2bmR6cW9nNmI2cWhxMmVnN2pndjdhYzB6bWRldnNjbGNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cnk4ZRTlfeI32o/giphy.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd6eml2bmR6cW9nNmI2cWhxMmVnN2pndjdhYzB6bWRldnNjbGNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cnk4ZRTlfeI32o/giphy.gif" width="50">
 
 
 <!--
