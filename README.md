@@ -3,6 +3,9 @@
 ### Web developer Student
 
 ### 😊 About Me:
+- Pomidor
+- Alma
+- Banan
 
 
 <!--
