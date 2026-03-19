@@ -3,9 +3,8 @@
 ### Web developer Student
 
 ### 😊 About Me:
-- Pomidor
-- Alma
-- Banan
+- 🏫 I am a student at Muhammad al-Xorezmiy miyrasxorları.
+
 
 
 <!--
